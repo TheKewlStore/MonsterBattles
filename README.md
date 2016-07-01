@@ -11,24 +11,31 @@ There are a total of 9 types, and each type is weak/strong against exactly 2 oth
 The 9 monster types are as follows:
 ### Fire
     Strong Against: Grass & Ice
-    Weak Against: Water & Rock
+    Weak Against: Water & Dark
 ### Water
-    Strong Against: Fire & Rock
+    Strong Against: Fire & Ice
     Weak Against: Grass & Electric
 ### Grass
-    Strong Against: Water & Rock
-    Weak Against: Fire & Ice
+    Strong Against: Water & Electric
+    Weak Against: Fire & Flying
 ### Ice
-    Strong Against: Grass & Psychic
-    Weak Against: Fire & Rock
+    Strong Against: Dark & Flying
+    Weak Against: Fire & Water
 ### Electric
     Strong Against: Water & Flying
-    Weak Against: Psychic & Dark
+    Weak Against: Grass & Psychic
 ### Psychic
-    Strong Against: Dark & Electric
-    Weak Against: Ice & Dark
+    Strong Against: Electric & Dark
+    Weak Against: Flying & Dark
 ### Dark
-    Strong Against: Psychic & Electric
-    Weak Against:
+    Strong Against: Fire & Psychic
+    Weak Against: Ice & Psychic
 ### Flying
-### Rock
+    Strong Against: Grass & Psychic
+    Weak Against: Ice & Electric
+### Rock (Tentative)
+    Strong Against: Rock
+    Weak Against: Rock
+### Normal (Tentative)
+    Strong Against: None
+    Weak Against: None
