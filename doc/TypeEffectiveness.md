@@ -1,3 +1,5 @@
+[<<back to readme](https://github.com/TheKewlStore/MonsterBattles)
+
 Similar to Pokemon (though more consistent), every battler in MonsterBattles has exactly two types.
 There are a total of 9 types, and each type is weak/strong against exactly 2 other types.
 For the effectiveness of dual-typed battlers, all strengths and weaknesses are combined additively.
