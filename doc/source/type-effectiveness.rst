@@ -1,10 +1,13 @@
-Single Type Effectiveness Table
+Type Effectiveness
 ===========================================
+
+Single Type Effectiveness Table
+---------------------------------------------------------------------------
 .. image:: _static/images/type-effectiveness.png
     :alt: A chart showing the effectiveness of different battler types
 
 Double Type Mechanics
-=============================================
+---------------------------------------------------------------------------
 Unlike Pokemon, in order to provide a more consistent and balanced experience, every battler in MonsterBattles has exactly two types.
 There are a total of 8 types, and each type is weak/strong against exactly 2 other types. (2 Tentative types that don't follow this rule, the balance behind these types would be no battler of this type would get the advantage of a double type.)
 For the effectiveness of dual-typed battlers, all strengths and weaknesses are combined additively.
