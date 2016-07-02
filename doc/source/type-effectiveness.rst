@@ -26,7 +26,7 @@ Single Type Effectiveness Table
 | Normal   | 1X   | 1X    | 1X    | 1X  | 1X       | 1X       | 1X       | 1X     | 1X       | 1X     |
 +----------+------+-------+-------+-----+----------+----------+----------+--------+----------+--------+
 
-.. image: type-effectiveness.png
+.. image: images/type-effectiveness.png
     :alt: A chart showing the effectiveness of different battler types
 
 
