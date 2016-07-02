@@ -1,6 +1,3 @@
-Monster Battles
-===========================================
-
 Overview
 -----------------------------
 MonsterBattles is a game based loosely off of turn-based strategy games like Pokemon.
