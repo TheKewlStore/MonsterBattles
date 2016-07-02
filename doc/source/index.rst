@@ -1,7 +1,5 @@
 Monster Battles
 ===========================================
-.. include:: ../../README.rst
-
 Contents:
 
 .. toctree::
@@ -10,6 +8,7 @@ Contents:
    overview
    Types and Type Effectiveness <type-effectiveness>
 
+.. include:: ../../README.rst
 
 Indices and tables
 ==================
