@@ -1,36 +1,18 @@
-Types
+Single Type Effectiveness Table
 ===========================================
-### Fire
-    Strong Against: Grass & Ice
-    Weak Against: Water & Dark
-### Water
-    Strong Against: Fire & Ice
-    Weak Against: Grass & Electric
-### Grass
-    Strong Against: Water & Electric
-    Weak Against: Fire & Flying
-### Ice
-    Strong Against: Dark & Flying
-    Weak Against: Fire & Water
-### Electric
-    Strong Against: Water & Flying
-    Weak Against: Grass & Psychic
-### Psychic
-    Strong Against: Electric & Dark
-    Weak Against: Flying & Dark
-### Dark
-    Strong Against: Fire & Psychic
-    Weak Against: Ice & Psychic
-### Flying
-    Strong Against: Grass & Psychic
-    Weak Against: Ice & Electric
-### Rock (Tentative)
-    Strong Against: Rock
-    Weak Against: Rock
-### Normal (Tentative)
-    Strong Against: None
-    Weak Against: None
-    
+|          	| Fire 	| Water 	| Grass 	| Ice 	| Electric 	| Psychic  	| Dark     	| Flying 	| Rock     	| Normal 	|
+|----------	|------	|-------	|-------	|-----	|----------	|----------	|----------	|--------	|----------	|--------	|
+| Fire     	| .5X  	| .5X   	| 2X    	| 2X  	| 1X       	| 1X       	| .5X      	| 1X     	| 1X       	| 1X     	|
+| Water    	| 2X   	| .5X   	| .5X   	| 2X  	| .5X      	| 1X       	| 1X       	| 1X     	| 1X       	| 1X     	|
+| Grass    	| .5X  	| 2X    	| .5X   	| 1X  	| 2X       	| 1X       	| 1X       	| .5X    	| 1X       	| 1X     	|
+| Ice      	| .5X  	| .5X   	| 1X    	| .5X 	| 1X       	| 1X       	| 2X       	| 2X     	| 1X       	| 1X     	|
+| Electric 	| 1X   	| 2X    	| .5X   	| 1X  	| .5X      	| .5X      	| 1X       	| 2X     	| 1X       	| 1X     	|
+| Psychic  	| 1X   	| 1X    	| 1X    	| 1X  	| 2X       	| .5X      	| 2X / .5X 	| .5X    	| 1X       	| 1X     	|
+| Dark     	| 2X   	| 1X    	| 1X    	| .5X 	| 1X       	| 2X / .5X 	| .5X      	| 1X     	| 1X       	| 1X     	|
+| Flying   	| 1X   	| 1X    	| 2X    	| .5X 	| .5X      	| 2X       	| 1X       	| .5X    	| 1X       	| 1X     	|
+| Rock     	| 1X   	| 1X    	| 1X    	| 1X  	| 1X       	| 1X       	| 1X       	| 1X     	| 2X / .5X 	| 1X     	|
+| Normal   	| 1X   	| 1X    	| 1X    	| 1X  	| 1X       	| 1X       	| 1X       	| 1X     	| 1X       	| 1X     	|
+| Normal   	| 1X   	| 1X    	| 1X    	| 1X  	| 1X       	| 1X       	| 1X       	| 1X     	| 1X       	| 1X     	|
 Similar to Pokemon (though more consistent), every battler in MonsterBattles has exactly two types.
 There are a total of 9 types, and each type is weak/strong against exactly 2 other types.
 For the effectiveness of dual-typed battlers, all strengths and weaknesses are combined additively.
