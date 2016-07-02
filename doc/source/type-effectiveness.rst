@@ -1,6 +1,6 @@
 Single Type Effectiveness Table
 ===========================================
-.. image: images/type-effectiveness.png
+.. image: ../images/type-effectiveness.png
     :alt: A chart showing the effectiveness of different battler types
 
 
