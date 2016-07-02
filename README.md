@@ -8,36 +8,26 @@ while also keeping the core gameplay mechanics as simple as possible.
 
 ## Monster Types
 Similar to Pokemon (though more consistent), every battler in MonsterBattles has exactly two types.
-
 There are a total of 9 types, and each type is weak/strong against exactly 2 other types.
-
 For the effectiveness of dual-typed battlers, all strengths and weaknesses are combined additively.
 
-For example: A battler with a dual grass and ice type:
+Example: A battler with a dual grass and ice type:
 
-Grass is weak to: Fire & Flying
+Grass is weak to Fire & Flying
 
-Ice is weak to: Fire & Water
+Ice is weak to Fire & Water
 
-So, a grass-ice type is weak (2X damage) too:
+So, a grass-ice type is weak (2X damage) to Flying & Water
 
-Flying & Water
-
-and is super weak (4X damage) too:
-
-Fire
+and is super weak (4X damage) to Fire
 
 The same mechanic applies to resistances as well (damage taken from a move a battler is strong too)
 
 In the case of a grass-ice battler,
 
-Grass is strong against:
+Grass is strong against Water & Electric
 
-Water & Electric
-
-Ice is strong against:
-
-Dark & Flying
+Ice is strong against Dark & Flying
 
 So a grass-ice type is strong against:
 
