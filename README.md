@@ -7,4 +7,4 @@ The biggest emphasis of MonsterBattles is creating a balanced, competitive game 
 while also keeping the core gameplay mechanics as simple as possible.
 
 ## Monster Types
-See [Type Effectiveness]()
+See [Type Effectiveness](https://github.com/TheKewlStore/MonsterBattles/blob/master/doc/TypeEffectiveness.md)
