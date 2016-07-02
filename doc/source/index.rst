@@ -6,8 +6,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
-    overview
-    Types and Type Effectiveness <type-effectiveness>
+   overview
+   Types and Type Effectiveness <type-effectiveness>
 
 
 Indices and tables
