@@ -22,9 +22,9 @@ Move 2) An off-type move (not countered) to the battler (varies).
 Move 3) The same type as the battler (constant), this allows for single-type stacking.
 
 Type options for the starting battlers (for reference):
-Charmander (Fire) (Grass, Flying, Fire)
-Squirtle (Water) (Fire, Ice, Water)
-Bulbasaur (Grass) (Water, Electric, Grass)
+| Charmander (Fire) (Grass, Flying, Fire)
+| Squirtle (Water) (Fire, Ice, Water)
+| Bulbasaur (Grass) (Water, Electric, Grass)
 
 Double-Typed Battlers
 ---------------------------------------------------------------------------
