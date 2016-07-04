@@ -18,15 +18,15 @@ The move chosen will determine the battler's off-type from that point on.
 
 The three move types available to a battler follow a specific pattern:
 
-# One of the natural counter (if any) types to the battler (constant).
-# An off-type move (not countered) to the battler (varies).
-# The same type as the battler (constant), this allows for single-type stacking.
+#. One of the natural counter (if any) types to the battler (constant).
+#. An off-type move (not countered) to the battler (varies).
+#. The same type as the battler (constant), this allows for single-type stacking.
 
 Type options for the starting battlers (for reference):
 
-* Charmander (Fire) (Grass, Flying, Fire)
-* Squirtle (Water) (Fire, Ice, Water)
-* Bulbasaur (Grass) (Water, Electric, Grass)
+* Charmander (Fire) (Grass/Flying/Fire)
+* Squirtle (Water) (Fire/Ice/Water)
+* Bulbasaur (Grass) (Water/Electric/Grass)
 
 Double-Typed Battlers
 ---------------------------------------------------------------------------
