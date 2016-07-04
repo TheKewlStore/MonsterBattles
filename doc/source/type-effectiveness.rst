@@ -18,9 +18,9 @@ The move chosen will determine the battler's off-type from that point on.
 
 The three move types available to a battler follow a specific pattern:
 
-* Move 1) One of the natural counter (if any) types to the battler (constant).
-* Move 2) An off-type move (not countered) to the battler (varies).
-* Move 3) The same type as the battler (constant), this allows for single-type stacking.
+# One of the natural counter (if any) types to the battler (constant).
+# An off-type move (not countered) to the battler (varies).
+# The same type as the battler (constant), this allows for single-type stacking.
 
 Type options for the starting battlers (for reference):
 
