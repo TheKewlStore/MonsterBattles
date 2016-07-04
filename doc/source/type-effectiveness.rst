@@ -17,14 +17,14 @@ At level 2, three new moves will be available to learn, each of a different type
 The move chosen will determine the battler's off-type from that point on.
 
 The three move types available to a battler follow a specific pattern:
-Move 1) One of the natural counter (if any) types to the battler (constant).
-Move 2) An off-type move (not countered) to the battler (varies).
-Move 3) The same type as the battler (constant), this allows for single-type stacking.
+* Move 1) One of the natural counter (if any) types to the battler (constant).
+* Move 2) An off-type move (not countered) to the battler (varies).
+* Move 3) The same type as the battler (constant), this allows for single-type stacking.
 
 Type options for the starting battlers (for reference):
-| Charmander (Fire) (Grass, Flying, Fire)
-| Squirtle (Water) (Fire, Ice, Water)
-| Bulbasaur (Grass) (Water, Electric, Grass)
+* Charmander (Fire) (Grass, Flying, Fire)
+* Squirtle (Water) (Fire, Ice, Water)
+* Bulbasaur (Grass) (Water, Electric, Grass)
 
 Double-Typed Battlers
 ---------------------------------------------------------------------------
