@@ -5,10 +5,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
-   overview
+   Overview <overview>
    Types and Type Effectiveness <type-effectiveness>
-
-.. include:: ../../README.rst
+   Battler Statistics <battler-statistics>
 
 Indices and tables
 ==================
